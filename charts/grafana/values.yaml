@@ -189,7 +189,7 @@ ingress:
 
   path: /grafana/?(.*)
   hosts:
-    - k8s.example.dev
+    - a69ec1bd267bc475aabd4520ec366b65-519609808.ap-southeast-1.elb.amazonaws.com
 
 grafana.ini:
   server:
